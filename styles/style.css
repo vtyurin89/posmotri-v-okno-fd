@@ -274,6 +274,10 @@ h1.title .content__accent{
   text-decoration: underline;
 }
 
+.content__card-link_current .content__video-card {
+  background-color: #545050;
+}
+
 .content__video-card-description-container {
   color: inherit;
   flex-grow: 1;
